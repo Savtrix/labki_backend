@@ -1,14 +1,14 @@
-temat: Apka do obsługi kina (chyba)
+temat: Apka do obsługi apteki (chyba)
 
-1 baza i wyświetlanie danych (sale, filmy itp.)
-2 dodanie pełnego CRUD 
-3 dodanie opcji logowania
-4 
-5
-6
-7
-8
-9
+1 baza i wyświetlanie danych 
+2 opcja dodawania leków i ich ilości
+3 dodanie obsługi recept
+4 panel logowania i rejestracji
+5 sesja
+6 panel obsługi konta 
+7 usuwanie i edycja rekordów w bazie
+8 generowanmie listy zapasów leków i wyświetlanie braków
+9 
 10
 11
 12
