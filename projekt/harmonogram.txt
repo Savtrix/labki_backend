@@ -10,4 +10,9 @@ temat: Apka do obsługi apteki (chyba)
 8 Generowanie listy produktów/zapasów;
 9 Informowanie o brakach magazynowych;
 10 pobieranie i walidacja recept z (?);
-11
+11 panel główny
+12  walidacja danych w bazie
+13
+14
+15
+16 pozbycie się błędów z kodu
